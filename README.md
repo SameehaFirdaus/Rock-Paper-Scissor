@@ -12,7 +12,8 @@ This is a simple Rock-Paper-Scissors game implemented in Python. The game allows
 3. Both choices are displayed using ASCII art.
 4. The winner is determined based on the following rules:
    - Rock beats Scissors.
-   - Scissors beats Paper.
+   - Scissors beats Paper.![rps](https://github.com/user-attachments/assets/27e8a209-5bb8-4706-9bf4-962287be141b)
+
    - Paper beats Rock.
    - If both choices are the same, it's a tie.
 
