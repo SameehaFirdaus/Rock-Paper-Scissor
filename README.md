@@ -1,7 +1,7 @@
 # Rock-Paper-Scissors Game
 
 ## Overview
-This is a simple Rock-Paper-Scissors game implemented in Python. The game allows a player to compete against the computer by selecting one of the three options: Rock, Paper, or Scissors. The winner is determined based on the classic rules of the game.
+This is a simple Rock-Paper-Scissors game implemented in Python. The game allows  player to compete against the computer by selecting one of the three options: Rock, Paper, or Scissors. The winner is determined based on the classic rules of the game.
 
 ## How It Works
 1. The player selects Rock, Paper, or Scissors by entering the corresponding number:
